@@ -1,0 +1,24 @@
+C:\Projects\Plagiarism-Detector> python main.py
+
+PLAGIARISM REPORT
+========================================
+
+Similarity: 81.25%
+
+Matched Words:
+algorithms
+computer
+data
+databases
+development
+efficiently
+important
+information
+python
+science
+software
+store
+structures
+used
+
+Report Saved Successfully.

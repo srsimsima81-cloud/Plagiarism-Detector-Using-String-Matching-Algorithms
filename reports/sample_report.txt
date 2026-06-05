@@ -1,0 +1,20 @@
+PLAGIARISM REPORT
+
+Generated Date:
+2026-06-06
+
+Similarity Percentage:
+81.25%
+
+Matched Content:
+
+Data Structures are important in computer science.
+
+Algorithms solve problems efficiently.
+
+Python is widely used for software development.
+
+Databases store information permanently.
+
+Conclusion:
+The submitted document contains significant similarities with the original document.

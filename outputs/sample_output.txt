@@ -1,0 +1,29 @@
+PLAGIARISM DETECTION OUTPUT
+
+Original File:
+original.txt
+
+Submitted File:
+submitted.txt
+
+Total Similarity Score:
+81.25%
+
+Matched Words:
+algorithms
+computer
+data
+databases
+development
+efficiently
+important
+information
+python
+science
+software
+store
+structures
+used
+
+Status:
+Potential plagiarism detected.
