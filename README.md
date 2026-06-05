@@ -12,6 +12,8 @@ This project detects plagiarism between two text documents by comparing content 
 
 ## 📂 Project Structure
 
+
+```text
 Plagiarism-Detector-Using-String-Matching/
 
 │
@@ -29,6 +31,7 @@ Plagiarism-Detector-Using-String-Matching/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ---
 
